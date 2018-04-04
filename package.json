@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/MikenIke135/playlist-pacify/issues"
   },
-  "homepage": "https://github.com/MikenIke135/playlist-pacify#readme"
+  "homepage": "https://github.com/MikenIke135/playlist-pacify#readme",
+  "scripts": {
+    "start": "node app.js"
+  }
 }
